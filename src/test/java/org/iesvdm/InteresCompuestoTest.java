@@ -1,3 +1,5 @@
+package org.iesvdm;
+
 import org.iesvdm.InteresCompuesto;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
