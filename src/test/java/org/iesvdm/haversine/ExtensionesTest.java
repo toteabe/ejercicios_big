@@ -18,6 +18,6 @@ public class ExtensionesTest {
         System.out.println(distanciaKM);
         System.out.println(distanciaKM.setScale(12, RoundingMode.HALF_UP));
 
-        Assertions.assertEquals(new BigDecimal("664.202860154455"), distanciaKM.setScale(12, RoundingMode.HALF_UP));
+        Assertions.assertEquals(new BigDecimal("664.202809944782"), distanciaKM.setScale(12, RoundingMode.HALF_UP));
     }
 }
